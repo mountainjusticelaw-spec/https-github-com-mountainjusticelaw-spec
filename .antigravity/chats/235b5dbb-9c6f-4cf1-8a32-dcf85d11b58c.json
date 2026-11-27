@@ -3,6 +3,31 @@
   "name": "https://github.com/mountainjusticelaw-spec/Planning-WeaverLawOS",
   "createdAt": "2026-11-27T03:26:13.407Z",
   "filename": "235b5dbb-9c6f-4cf1-8a32-dcf85d11b58c.json",
-  "geminiStarted": false,
-  "messages": []
+  "geminiStarted": true,
+  "messages": [
+    {
+      "id": "1e17cfd7-6099-451f-a396-3f215ad9b84f",
+      "role": "user",
+      "content": "https://github.com/mountainjusticelaw-spec/Planning-WeaverLawOS",
+      "status": "cancelled",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-27T03:26:15.078Z",
+      "sender": "ios",
+      "is_cancelled": true
+    },
+    {
+      "id": "34d310ea-5778-41bc-9acc-3066be6d69c1",
+      "role": "user",
+      "content": "Connect to the actual GitHub repo: mountainjusticelaw-spec/Planning-WeaverLawOS",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-27T03:27:25.886Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
